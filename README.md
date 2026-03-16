@@ -4,28 +4,6 @@ This Repository documents my journey of learning Machine Learning by implementin
 
 The goal of this repository is not just to build models, but also to understand the mathematical intuition, optimization methods, and evaluation techniques behind Machine Learning algorithms.
 
-
- # Repository Structure
-
- Machine learning
- 
- |
- |----------linear-regression
-
- 
- |      |--
-
- 
- |      |--
-
- 
- |      |--
-
- 
- |      |--
-
- 
- |
  
 
  More algorithms and experiments will be added as I continue Learning.
