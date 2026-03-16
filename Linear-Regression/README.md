@@ -95,7 +95,7 @@ Key insights:
 
 ---
 
-### 6. Linear Regression from Scratch on Additional Dataset
+### 6. Linear Regression using scikit-learn on Additional Dataset
 
 
 In this experiment, the regression algorithm was applied to another dataset using my own implementation.
@@ -108,18 +108,6 @@ Key insights:
 * Testing on multiple datasets improves confidence in the implementation.
 
 ---
-
-### 7. Linear Regression from Scratch on Another Dataset
-
-
-This notebook extends the experimentation by applying the regression model to yet another dataset.
-
-The goal was to further test the robustness of the algorithm and observe how prediction accuracy changes depending on the data.
-
-Key insights:
-
-* Real-world datasets vary widely in structure and complexity.
-* Machine learning models must be evaluated carefully across multiple datasets.
 
 ## Overall Learning from These Experiments
 
