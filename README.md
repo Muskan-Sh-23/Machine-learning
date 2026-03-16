@@ -9,19 +9,19 @@ The goal of this repository is not just to build models, but also to understand 
 
  Machine learning
  |
- |------linear-regression
+ |----------linear-regression
 
  
- |   |--
+ |      |--
 
  
- |   |--
+ |      |--
 
  
- |   |--
+ |      |--
 
  
- |   |--
+ |      |--
 
  
  |
@@ -38,10 +38,8 @@ The goal of this repository is not just to build models, but also to understand 
  
     1. A record of my Machine Learning process
 
-    
-    2. A placento experiment with algorithms and datasets
+    2. A place to experiment with algorithms and datasets
 
-    
     3. A structured collection of practice implementations
 
 
